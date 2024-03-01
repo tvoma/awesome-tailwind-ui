@@ -1,2 +1,23 @@
 # Awesome Tailwind UI librairies
 List awesome tailwind component librairies.
+
+- [Aceternity UI](https://ui.aceternity.com/components)
+- [daisyUI](https://daisyui.com/)
+- [Float UI](https://floatui.com/)
+- [Flowbite](https://flowbite.com/)
+- [Headless UI](https://headlessui.com/)
+- [HyperUI](https://www.hyperui.dev/)
+- [Kimia-UI](https://kimia-ui.vercel.app/)
+- [Konsta UI](https://konstaui.com/)
+- [Mamba UI](https://mambaui.com/)
+- [Material Tailwind](https://www.material-tailwind.com/)
+- [Meraki UI](https://merakiui.com/)
+- [Pines UI](https://devdojo.com/pines)
+- [Preline UI](https://preline.co/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Skeleton](https://www.skeleton.dev/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Ripple UI](https://www.ripple-ui.com/)
+- [Tailblocks](https://tailblocks.cc/)
+- [Tailframes](https://www.tailframes.com/)
+- [Xtend UI](https://xtendui.com/)

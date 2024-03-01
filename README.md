@@ -1,2 +1,2 @@
-# awesome-tailwind-ui
-List awesome tailwind component librairies
+# Awesome Tailwind UI librairies
+List awesome tailwind component librairies.

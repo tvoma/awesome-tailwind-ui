@@ -21,3 +21,4 @@ List awesome tailwind component librairies.
 - [Tailblocks](https://tailblocks.cc/)
 - [Tailframes](https://www.tailframes.com/)
 - [Xtend UI](https://xtendui.com/)
+- [dotUI](https://dotui.org/)

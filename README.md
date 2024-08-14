@@ -24,3 +24,4 @@ List awesome tailwind component librairies.
 - [dotUI](https://dotui.org/)
 - [Fraken UI](https://franken-ui.dev/)
 - [EldoraUI](https://www.eldoraui.site/)
+- [CuiCui](https://cuicui.day/)
